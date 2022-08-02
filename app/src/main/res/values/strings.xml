@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CodingTest</string>
+    <string name="sensitive_data">This is a sensitive data</string>
+</resources>
